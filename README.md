@@ -395,7 +395,7 @@ Every API error returns this consistent structure:
 | **Institution** | United Institute of Technology |
 
 | **Live App** | [taskflow.vercel.app](https://task-flow-git-main-mayanksingh-ai1s-projects.vercel.app/) |
-| **GitHub** | [github.com/mayanksingh-ai1/TaskFlow](https://github.com/mayanksingh-ai1/TaskFlow) |
+| **GitHub** | [github.com/mayanksingh-ai1/TaskFlow] |
 
 ---
 
