@@ -391,11 +391,9 @@ Every API error returns this consistent structure:
 
 | | |
 |--|--|
-| **Name** | Mayank Singh |
-| **Institution** | GNIOT (Greater Noida Institute of Technology) |
-| **Roll No** | 2201320100097 |
-| **Phone** | 8957798493 |
-| **Email** | mayanksingh02728@gmail.com |
+| **Name** | Gyandeep  |
+| **Institution** | United Institute of Technology |
+
 | **Live App** | [taskflow.vercel.app](https://task-flow-git-main-mayanksingh-ai1s-projects.vercel.app/) |
 | **GitHub** | [github.com/mayanksingh-ai1/TaskFlow](https://github.com/mayanksingh-ai1/TaskFlow) |
 
@@ -403,6 +401,6 @@ Every API error returns this consistent structure:
 
 <div align="center">
 
-Made By Mayank❤️ using the MERN Stack
+Made By Gyandeep❤️ using the MERN Stack
 
 </div>
